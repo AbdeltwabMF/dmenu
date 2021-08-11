@@ -1,4 +1,4 @@
-# Luke's dmenu
+# dmenu
 
 Extra stuff added to vanilla dmenu:
 
@@ -8,9 +8,3 @@ Extra stuff added to vanilla dmenu:
 - `-P` for password mode: hide user input
 - `-r` to reject non-matching input
 - dmenu options are mouse clickable
-
-## Installation
-
-You must have `libxft-bgra` installed until the libxft upstream is fixed.
-
-After making any config changes that you want, but `make`, `sudo make install` it.
