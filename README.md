@@ -1,4 +1,4 @@
-# dmenu
+# dmenu (Dynamic Menu for X)
 
 Extra stuff added to vanilla dmenu:
 
