@@ -8,3 +8,4 @@ Extra stuff added to vanilla dmenu:
 - `-P` for password mode: hide user input
 - `-r` to reject non-matching input
 - dmenu options are mouse clickable
+- case-insensitive search
