@@ -10,14 +10,14 @@ static const char *fonts[] = {
   "Ubuntu Arabic:pixelsize=16:antialias=true:autohint=true"
 };
 
-static const unsigned int bgalpha = 0xe0;
+static const unsigned int bgalpha = 0xff;
 static const unsigned int fgalpha = OPAQUE;
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
 static const char *colors[SchemeLast][2] = {
 	/*                fg         bg       */
-	[SchemeNorm] = { "#b0f0cc", "#0cfcc0" },
-	[SchemeSel]  = { "#eeee33", "#005577" },
-	[SchemeOut]  = { "#ffffff", "#00ccff" },
+	[SchemeNorm] = { "#a3af34", "#000000" },
+	[SchemeSel]  = { "#faaaa4", "#000000" },
+	[SchemeOut]  = { "#f3cff4", "#000000" },
 };
 
 static const unsigned int alphas[SchemeLast][2] = {
