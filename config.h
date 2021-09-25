@@ -4,11 +4,16 @@
 static int topbar = 1;                      /* -b  option; if 0, dmenu appears at bottom     */
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-  "FantasqueSansMono-Regular:pixelsize=16:antialias=true:autohint=true"
-  "fontawesome-regular:pixelsize=18:antialias=true:autohint=true"
-  "Ubuntu Arabic:pixelsize=16:antialias=true:autohint=true"
-  "JoyPixels:pixelsize=12:antialias=true:autohint=true"
-  "Symbola:pixelsize=12:antialias=true:autohint=true"
+  "Fantasque Sans Mono:pixelsize=16:antialias=true:autohint=true",
+  "Ubuntu Arabic:pixelsize=16:antialias=true:autohint=true",
+  "SauceCodePro Nerd Font:pixelsize=16:antialias=true:autohint=true",
+  "FontAwesome:pixelsize=16:antialias=true:autohint=true",
+  "Pomodoro:pixelsize=16:antialias=true:autohint=true",
+  "octicons:pixelsize=16:antialias=true:autohint=true",
+  "icomoon:pixelsize=16:antialias=true:autohint=true",
+  "Twitter Color Emoji:pixelsize=16:antialias=true:autohint=true",
+  "Noto Color Emoji:pixelsize=16:antialias=true:autohint=true",
+  "JoyPixels:pixelsize=16:antialias=true:autohint=true"
 };
 
 static const unsigned int bgalpha = 0xff;
