@@ -10,7 +10,10 @@ static const char *fonts[] = {
 	"DejaVu Sans:pixelsize=16:antialias=true:autohint=true",
 	"Noto Sans Arabic:pixelsize=16:antialias=true:autohint=true",
   "FuraMono Nerd Font Mono:pixelsize=16:antialias=true:autohint=true",
-	"Amiri Quran Colored:pixelsize=16:antialias=true:autohint=true"
+	"Amiri Quran Colored:pixelsize=16:antialias=true:autohint=true",
+	"Noto Sans Hebrew:pixelsize=18:antialias=true:autohint=true",
+	"Noto Sans KR:pixelsize=18:antialias=true:autohint=true",
+	"Noto Sans JP:pixelsize=18:antialias=true:autohint=true"
 };
 
 static const unsigned int bgalpha = 0xff;
